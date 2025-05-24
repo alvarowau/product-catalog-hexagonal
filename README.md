@@ -35,8 +35,8 @@ Para levantar y probar la aplicación en tu entorno local:
 
 1.  **Clona el repositorio:**
     ```bash
-    git clone [https://github.com/tu-usuario/nombre-de-tu-repo.git](https://github.com/tu-usuario/nombre-de-tu-repo.git)
-    cd nombre-de-tu-repo
+    git clone [https://github.com/alvarowau/product-catalog-hexagonal.git](https://github.com/alvarowau/product-catalog-hexagonal.git)
+    cd product-catalog-hexagonal
     ```
 2.  **Construye el proyecto (Maven):**
     ```bash
